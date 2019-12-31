@@ -1,4 +1,4 @@
-## Watch Video (might be old and miss some points but will get you to it)
+## Watch Video (might be old and miss some points but will get you to it) Don't follow video, just use as hint.
 https://drive.google.com/file/d/1q5VVCCreOuXsujRzZkBAv12WJ1KZvQ0I/view
 
 ## Basic Documentation
