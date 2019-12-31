@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1q5VVCCreOuXsujRzZkBAv12WJ1KZvQ0I/view
 * For `https://drive.google.com/drive/folders/1p7pHhSh2yboWePmo53DnVr3xkAYiojP9` `1p7pHhSh2yboWePmo53DnVr3xkAYiojP9` is ID.
 * Paste Folder ID in `.constants.js` on line 9.
 * Edit `.constants.js` as you need.
-* Create your own Google Cloud Credentials or copy from [here](https://github.com/HashHackers/aria-telegram-mirror-bot/client_secret.json) and paste in your repo.
+* Create your own Google Cloud Credentials or copy from [here](https://github.com/HashHackers/aria-telegram-mirror-bot/blob/master/client_secret.json) and paste in your repo.
 * Start an EC2 AWS Virtual Machine or Your Own Linux Machine. (I use Termiux to connect)
 * `sudo apt update`
 * `sudo apt upgrade`
